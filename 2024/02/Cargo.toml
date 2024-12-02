@@ -1,0 +1,12 @@
+[package]
+name = "Advent2024-02"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "1"
+path = "./1.rs"
+
+[[bin]]
+name = "2"
+path = "./2.rs"
